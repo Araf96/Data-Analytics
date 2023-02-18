@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+#excel files
+download
+
+# production
+/frontend/build
+
+#misc
